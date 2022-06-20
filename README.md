@@ -1,5 +1,3 @@
-# Applied-Data-Science-Capstone
-
 # Final Assessment of Coursera IBM Data Science Professional Certificate 
 https://junyoungh.github.io/Applied-Data-Science-Capstone/
 
